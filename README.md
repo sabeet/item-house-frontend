@@ -43,4 +43,4 @@ Afterwards, run the front end by doing this:
   npm run dev
 ```
 
-It should all work after that.# item-house-frontend
+It should all work after that.
